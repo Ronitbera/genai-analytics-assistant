@@ -1,0 +1,801 @@
+order_id,order_date,region,sales_channel,category,product,quantity,unit_price,discount_pct,revenue,cost,profit
+ORD00001,2025-11-24,East,Marketplace,Electronics,Wireless Mouse,1,30.61,0,30.61,15.63,14.98
+ORD00002,2025-08-05,South,Online,Electronics,Wireless Mouse,1,19.59,10,17.63,12.7,4.93
+ORD00003,2025-08-18,West,Store,Office,Notebook Set,1,14.86,0,14.86,8.37,6.49
+ORD00004,2025-02-22,South,Marketplace,Electronics,Headphones,3,42.25,10,114.08,91.53,22.55
+ORD00005,2025-03-05,West,Marketplace,Fitness,Yoga Mat,3,34.32,10,92.66,76.04,16.62
+ORD00006,2025-02-05,East,Store,Electronics,Keyboard,1,37.53,0,37.53,20.64,16.89
+ORD00007,2025-05-23,East,Marketplace,Fitness,Dumbbell Set,1,88.39,0,88.39,60.2,28.19
+ORD00008,2025-11-22,West,Marketplace,Home,Water Bottle,1,24.58,0,24.58,19.1,5.48
+ORD00009,2025-06-16,North,Online,Electronics,Wireless Mouse,3,31.97,0,95.91,47.94,47.97
+ORD00010,2025-12-02,North,Marketplace,Fitness,Resistance Bands,2,23.04,0,46.08,24.05,22.03
+ORD00011,2025-10-27,East,Online,Fitness,Dumbbell Set,1,57.96,20,46.37,36.68,9.69
+ORD00012,2025-02-26,South,Marketplace,Home,Water Bottle,2,13.2,5,25.08,15.72,9.36
+ORD00013,2025-05-09,North,Online,Electronics,Keyboard,2,64.64,5,122.82,72.4,50.42
+ORD00014,2025-05-31,West,Marketplace,Fitness,Yoga Mat,4,30.88,15,104.99,69.05,35.94
+ORD00015,2025-02-24,East,Marketplace,Office,Monitor Stand,1,42.84,0,42.84,22.64,20.2
+ORD00016,2025-06-15,West,Online,Fitness,Yoga Mat,1,18.92,20,15.14,13.66,1.48
+ORD00017,2025-05-04,West,Online,Electronics,Wireless Mouse,3,30.44,20,73.06,58.43,14.63
+ORD00018,2025-12-04,West,Marketplace,Fitness,Dumbbell Set,2,41.56,10,74.81,63.94,10.87
+ORD00019,2025-06-09,West,Online,Fitness,Dumbbell Set,1,75.49,5,71.72,38.98,32.74
+ORD00020,2025-06-23,East,Online,Electronics,Keyboard,2,55.47,0,110.94,76.81,34.13
+ORD00021,2025-02-04,West,Marketplace,Electronics,Headphones,1,40.31,10,36.28,21.94,14.34
+ORD00022,2025-10-20,South,Store,Fitness,Yoga Mat,3,42.46,0,127.38,64.85,62.53
+ORD00023,2025-08-05,East,Store,Fitness,Resistance Bands,1,22.69,10,20.42,15.29,5.13
+ORD00024,2025-06-23,South,Online,Electronics,Wireless Mouse,2,21.26,0,42.52,22.75,19.77
+ORD00025,2025-02-08,East,Online,Fitness,Dumbbell Set,2,36.85,5,70.02,35.7,34.32
+ORD00026,2025-03-27,East,Store,Fitness,Resistance Bands,3,16.18,15,41.26,25.7,15.56
+ORD00027,2025-05-16,South,Online,Fitness,Resistance Bands,4,15.19,20,48.61,39.3,9.31
+ORD00028,2025-04-08,East,Online,Office,Notebook Set,2,17.59,5,33.42,24.78,8.64
+ORD00029,2025-10-27,West,Online,Fitness,Dumbbell Set,2,94.36,0,188.72,119.34,69.38
+ORD00030,2025-11-01,East,Marketplace,Electronics,Keyboard,1,72.4,20,57.92,47.13,10.79
+ORD00031,2025-02-11,North,Online,Fitness,Dumbbell Set,2,70.86,15,120.46,76.71,43.75
+ORD00032,2025-05-16,East,Online,Fitness,Yoga Mat,1,38.51,0,38.51,27.17,11.34
+ORD00033,2025-08-23,East,Online,Electronics,Wireless Mouse,2,27.14,0,54.28,31.74,22.54
+ORD00034,2025-07-09,East,Marketplace,Office,Notebook Set,2,10.7,0,21.4,16.59,4.81
+ORD00035,2025-10-11,West,Store,Office,Monitor Stand,3,24.66,0,73.98,55.26,18.72
+ORD00036,2025-05-25,North,Online,Home,Water Bottle,2,16.86,15,28.66,21.3,7.36
+ORD00037,2025-02-17,West,Marketplace,Fitness,Resistance Bands,1,8.75,0,8.75,6.77,1.98
+ORD00038,2025-08-15,East,Store,Fitness,Dumbbell Set,1,30.68,15,26.08,23.05,3.03
+ORD00039,2025-10-26,East,Store,Home,Storage Box,1,10.17,15,8.64,7.31,1.33
+ORD00040,2025-04-18,West,Online,Home,Water Bottle,3,12.06,15,30.75,21.78,8.97
+ORD00041,2025-03-25,West,Store,Home,Storage Box,3,8.42,0,25.26,19.18,6.08
+ORD00042,2025-03-23,South,Store,Electronics,Headphones,3,100.41,0,301.23,218.38,82.85
+ORD00043,2025-06-06,North,Store,Home,Desk Lamp,1,15.71,0,15.71,11.61,4.1
+ORD00044,2025-11-25,North,Online,Fitness,Dumbbell Set,2,98.68,15,167.76,101.56,66.2
+ORD00045,2025-10-25,East,Store,Office,Notebook Set,1,6.41,10,5.77,3.68,2.09
+ORD00046,2025-10-23,West,Store,Home,Storage Box,1,8.75,5,8.31,6.32,1.99
+ORD00047,2025-08-09,North,Marketplace,Electronics,Keyboard,2,75.64,10,136.15,78.27,57.88
+ORD00048,2025-06-08,South,Marketplace,Fitness,Resistance Bands,1,14.84,0,14.84,9.0,5.84
+ORD00049,2025-03-31,North,Store,Office,Office Chair,1,158.97,0,158.97,96.81,62.16
+ORD00050,2025-08-15,West,Marketplace,Fitness,Dumbbell Set,2,44.96,15,76.43,64.64,11.79
+ORD00051,2025-02-13,West,Marketplace,Office,Monitor Stand,2,49.87,0,99.74,76.36,23.38
+ORD00052,2025-06-08,East,Store,Home,Desk Lamp,1,19.42,20,15.54,12.88,2.66
+ORD00053,2025-08-01,East,Online,Home,Water Bottle,2,23.93,0,47.86,32.39,15.47
+ORD00054,2025-08-06,East,Store,Home,Desk Lamp,2,39.12,5,74.33,50.64,23.69
+ORD00055,2025-03-10,South,Marketplace,Fitness,Dumbbell Set,2,67.18,0,134.36,94.94,39.42
+ORD00056,2025-09-16,West,Marketplace,Fitness,Dumbbell Set,1,61.21,15,52.03,37.65,14.38
+ORD00057,2025-05-22,North,Store,Fitness,Dumbbell Set,1,46.75,10,42.08,25.73,16.35
+ORD00058,2025-10-04,South,Store,Electronics,Wireless Mouse,1,20.56,0,20.56,11.19,9.37
+ORD00059,2025-06-19,East,Marketplace,Fitness,Resistance Bands,3,9.06,0,27.18,19.32,7.86
+ORD00060,2025-07-14,South,Marketplace,Fitness,Yoga Mat,1,48.0,0,48.0,35.88,12.12
+ORD00061,2025-10-07,South,Marketplace,Home,Storage Box,1,11.73,0,11.73,6.81,4.92
+ORD00062,2025-03-26,East,Online,Fitness,Yoga Mat,2,49.33,15,83.86,64.88,18.98
+ORD00063,2025-11-26,South,Store,Fitness,Yoga Mat,1,45.34,0,45.34,26.22,19.12
+ORD00064,2025-06-22,East,Marketplace,Fitness,Resistance Bands,3,20.78,0,62.34,31.46,30.88
+ORD00065,2025-10-04,East,Online,Electronics,Headphones,1,51.82,20,41.46,25.5,15.96
+ORD00066,2025-04-13,West,Store,Electronics,Keyboard,1,33.38,10,30.04,21.67,8.37
+ORD00067,2025-12-25,West,Store,Office,Office Chair,2,107.65,10,193.77,110.74,83.03
+ORD00068,2025-02-25,West,Online,Electronics,Headphones,4,78.18,0,312.72,238.43,74.29
+ORD00069,2025-10-31,East,Store,Home,Desk Lamp,1,35.92,10,32.33,25.92,6.41
+ORD00070,2025-09-30,South,Online,Fitness,Dumbbell Set,2,55.94,0,111.88,82.22,29.66
+ORD00071,2025-08-10,North,Marketplace,Office,Monitor Stand,2,60.12,0,120.24,64.07,56.17
+ORD00072,2025-10-03,East,Store,Fitness,Resistance Bands,3,15.4,0,46.2,33.98,12.22
+ORD00073,2025-08-19,North,Online,Home,Storage Box,2,17.69,0,35.38,22.23,13.15
+ORD00074,2025-09-07,North,Marketplace,Home,Storage Box,1,21.56,15,18.33,14.88,3.45
+ORD00075,2025-01-06,South,Marketplace,Home,Desk Lamp,1,22.24,5,21.13,12.28,8.85
+ORD00076,2025-12-31,North,Marketplace,Fitness,Resistance Bands,1,21.48,0,21.48,14.77,6.71
+ORD00077,2025-10-25,North,Marketplace,Office,Office Chair,1,159.72,20,127.78,103.04,24.74
+ORD00078,2025-08-21,West,Online,Office,Office Chair,1,118.94,0,118.94,61.36,57.58
+ORD00079,2025-04-21,East,Online,Fitness,Resistance Bands,5,20.32,5,96.52,57.39,39.13
+ORD00080,2025-06-01,East,Marketplace,Home,Storage Box,1,11.05,5,10.5,6.21,4.29
+ORD00081,2025-05-30,South,Store,Home,Water Bottle,2,27.37,15,46.53,35.7,10.83
+ORD00082,2025-08-14,East,Store,Office,Notebook Set,1,17.55,15,14.92,9.02,5.9
+ORD00083,2025-09-09,North,Online,Electronics,Keyboard,1,59.62,0,59.62,38.68,20.94
+ORD00084,2025-05-08,South,Store,Electronics,Keyboard,2,67.04,10,120.67,73.44,47.23
+ORD00085,2025-08-15,East,Online,Office,Monitor Stand,1,64.55,10,58.09,42.79,15.3
+ORD00086,2025-11-17,East,Store,Home,Storage Box,1,19.23,0,19.23,9.66,9.57
+ORD00087,2025-08-19,East,Marketplace,Fitness,Resistance Bands,1,8.55,0,8.55,6.31,2.24
+ORD00088,2025-04-30,West,Marketplace,Office,Monitor Stand,3,46.54,0,139.62,71.83,67.79
+ORD00089,2025-03-18,North,Store,Office,Notebook Set,1,5.93,0,5.93,4.18,1.75
+ORD00090,2025-03-05,South,Online,Fitness,Dumbbell Set,1,51.29,0,51.29,32.93,18.36
+ORD00091,2025-11-03,East,Marketplace,Electronics,Headphones,2,90.09,0,180.18,98.86,81.32
+ORD00092,2025-05-18,South,Marketplace,Electronics,Wireless Mouse,2,26.0,15,44.2,27.79,16.41
+ORD00093,2025-09-09,North,Store,Electronics,Headphones,1,61.1,10,54.99,45.05,9.94
+ORD00094,2025-12-22,East,Store,Fitness,Resistance Bands,1,19.26,10,17.33,9.46,7.87
+ORD00095,2025-05-10,South,Store,Office,Notebook Set,1,17.61,5,16.73,13.67,3.06
+ORD00096,2025-01-28,West,Store,Home,Water Bottle,3,17.24,10,46.55,36.62,9.93
+ORD00097,2025-10-09,West,Marketplace,Home,Storage Box,2,15.45,0,30.9,23.85,7.05
+ORD00098,2025-03-23,East,Store,Office,Monitor Stand,1,20.62,0,20.62,15.1,5.52
+ORD00099,2025-03-02,South,Store,Home,Storage Box,1,23.86,10,21.47,14.43,7.04
+ORD00100,2025-05-05,West,Online,Fitness,Dumbbell Set,1,40.12,5,38.11,28.24,9.87
+ORD00101,2025-05-22,North,Marketplace,Fitness,Resistance Bands,2,23.88,15,40.6,26.98,13.62
+ORD00102,2025-10-24,South,Store,Fitness,Yoga Mat,2,30.63,0,61.26,43.42,17.84
+ORD00103,2025-06-14,North,Marketplace,Home,Water Bottle,1,14.78,15,12.56,8.92,3.64
+ORD00104,2025-08-31,East,Online,Fitness,Resistance Bands,3,24.8,10,66.96,39.11,27.85
+ORD00105,2025-09-15,West,Store,Office,Notebook Set,1,16.36,5,15.54,10.1,5.44
+ORD00106,2025-12-02,East,Store,Home,Desk Lamp,5,29.08,0,145.4,100.01,45.39
+ORD00107,2025-12-12,East,Online,Fitness,Resistance Bands,4,18.66,5,70.91,47.94,22.97
+ORD00108,2025-11-20,East,Store,Office,Notebook Set,1,14.71,0,14.71,9.86,4.85
+ORD00109,2025-03-27,West,Online,Office,Notebook Set,3,5.6,0,16.8,9.95,6.85
+ORD00110,2025-09-29,South,Marketplace,Fitness,Dumbbell Set,1,77.73,0,77.73,51.52,26.21
+ORD00111,2025-12-16,North,Marketplace,Home,Storage Box,1,23.52,5,22.34,13.08,9.26
+ORD00112,2025-01-05,North,Marketplace,Fitness,Resistance Bands,1,19.52,0,19.52,11.39,8.13
+ORD00113,2025-08-06,West,Store,Office,Office Chair,1,199.12,0,199.12,124.44,74.68
+ORD00114,2025-10-20,South,Store,Office,Monitor Stand,2,33.31,0,66.62,48.57,18.05
+ORD00115,2025-01-05,West,Marketplace,Electronics,Keyboard,3,65.98,15,168.25,141.08,27.17
+ORD00116,2025-06-30,West,Marketplace,Home,Water Bottle,1,13.8,10,12.42,9.8,2.62
+ORD00117,2025-02-19,North,Store,Electronics,Headphones,1,94.15,0,94.15,48.9,45.25
+ORD00118,2025-08-01,North,Online,Home,Desk Lamp,2,18.96,20,30.34,24.24,6.1
+ORD00119,2025-05-12,West,Online,Fitness,Resistance Bands,1,20.69,0,20.69,15.91,4.78
+ORD00120,2025-12-13,South,Store,Fitness,Dumbbell Set,3,55.6,0,166.8,106.91,59.89
+ORD00121,2025-12-11,South,Online,Office,Monitor Stand,2,37.15,0,74.3,50.71,23.59
+ORD00122,2025-11-14,North,Marketplace,Office,Monitor Stand,1,29.96,15,25.47,22.55,2.92
+ORD00123,2025-07-29,West,Marketplace,Electronics,Wireless Mouse,1,18.77,20,15.02,9.66,5.36
+ORD00124,2025-03-11,West,Store,Fitness,Resistance Bands,4,14.31,10,51.52,36.75,14.77
+ORD00125,2025-12-02,West,Store,Electronics,Headphones,4,81.17,0,324.68,223.08,101.6
+ORD00126,2025-08-16,North,Online,Home,Storage Box,2,9.69,5,18.41,14.99,3.42
+ORD00127,2025-07-23,West,Marketplace,Office,Notebook Set,4,17.59,15,59.81,35.71,24.1
+ORD00128,2025-11-24,East,Marketplace,Electronics,Wireless Mouse,1,31.38,0,31.38,20.38,11.0
+ORD00129,2025-04-17,West,Online,Home,Desk Lamp,1,24.86,15,21.13,11.95,9.18
+ORD00130,2025-10-04,West,Marketplace,Office,Notebook Set,3,6.43,0,19.29,11.33,7.96
+ORD00131,2025-06-15,East,Store,Electronics,Wireless Mouse,1,22.51,0,22.51,11.57,10.94
+ORD00132,2025-08-18,North,Store,Office,Monitor Stand,2,46.71,0,93.42,62.08,31.34
+ORD00133,2025-11-26,South,Online,Electronics,Wireless Mouse,3,34.98,0,104.94,53.77,51.17
+ORD00134,2025-02-11,North,Store,Office,Monitor Stand,1,26.68,10,24.01,17.49,6.52
+ORD00135,2025-11-02,West,Store,Office,Office Chair,1,153.25,10,137.93,78.82,59.11
+ORD00136,2025-08-20,South,Store,Home,Storage Box,2,13.76,0,27.52,13.99,13.53
+ORD00137,2025-12-07,East,Online,Office,Office Chair,2,213.73,5,406.09,216.88,189.21
+ORD00138,2025-08-10,North,Marketplace,Electronics,Keyboard,3,65.63,5,187.05,129.15,57.9
+ORD00139,2025-03-04,East,Store,Fitness,Resistance Bands,4,22.85,0,91.4,68.98,22.42
+ORD00140,2025-11-04,East,Store,Office,Office Chair,2,98.99,0,197.98,123.67,74.31
+ORD00141,2025-10-12,East,Marketplace,Office,Notebook Set,2,14.91,10,26.84,21.87,4.97
+ORD00142,2025-12-03,East,Online,Office,Notebook Set,2,7.35,0,14.7,8.55,6.15
+ORD00143,2025-03-15,West,Store,Fitness,Yoga Mat,2,19.97,0,39.94,28.11,11.83
+ORD00144,2025-08-03,East,Online,Fitness,Resistance Bands,1,10.68,0,10.68,8.14,2.54
+ORD00145,2025-03-21,South,Store,Home,Water Bottle,1,11.0,0,11.0,6.68,4.32
+ORD00146,2025-05-20,South,Marketplace,Home,Water Bottle,1,12.28,0,12.28,8.39,3.89
+ORD00147,2025-12-08,West,Online,Office,Notebook Set,5,7.87,0,39.35,21.3,18.05
+ORD00148,2025-05-11,West,Marketplace,Office,Office Chair,2,101.2,0,202.4,105.0,97.4
+ORD00149,2025-10-14,East,Store,Office,Notebook Set,3,10.16,0,30.48,18.83,11.65
+ORD00150,2025-10-22,North,Online,Fitness,Dumbbell Set,2,58.31,0,116.62,70.15,46.47
+ORD00151,2025-11-13,South,Marketplace,Fitness,Dumbbell Set,1,94.38,15,80.22,52.19,28.03
+ORD00152,2025-02-10,East,Marketplace,Fitness,Resistance Bands,1,20.68,10,18.61,10.4,8.21
+ORD00153,2025-09-19,East,Online,Home,Storage Box,4,13.97,10,50.29,29.3,20.99
+ORD00154,2025-05-12,South,Store,Home,Desk Lamp,3,33.07,10,89.29,52.89,36.4
+ORD00155,2025-10-16,North,Online,Fitness,Dumbbell Set,2,94.69,10,170.44,126.38,44.06
+ORD00156,2025-08-14,East,Store,Electronics,Headphones,1,68.17,0,68.17,33.87,34.3
+ORD00157,2025-08-25,East,Marketplace,Fitness,Yoga Mat,3,16.99,0,50.97,37.68,13.29
+ORD00158,2025-11-01,West,Store,Fitness,Resistance Bands,4,17.87,10,64.33,35.19,29.14
+ORD00159,2025-11-06,North,Marketplace,Fitness,Dumbbell Set,1,40.56,0,40.56,30.41,10.15
+ORD00160,2025-02-13,West,Store,Home,Desk Lamp,1,22.43,0,22.43,14.28,8.15
+ORD00161,2025-07-10,North,Online,Office,Office Chair,1,140.18,5,133.17,100.48,32.69
+ORD00162,2025-06-18,West,Store,Electronics,Keyboard,1,62.31,10,56.08,42.18,13.9
+ORD00163,2025-02-11,East,Store,Home,Storage Box,2,13.27,10,23.89,13.77,10.12
+ORD00164,2025-10-14,East,Marketplace,Fitness,Dumbbell Set,3,85.42,10,230.63,186.73,43.9
+ORD00165,2025-12-10,South,Online,Fitness,Dumbbell Set,1,55.33,0,55.33,30.11,25.22
+ORD00166,2025-04-26,East,Marketplace,Home,Desk Lamp,3,17.31,0,51.93,36.94,14.99
+ORD00167,2025-06-22,West,Marketplace,Home,Water Bottle,1,17.53,15,14.9,12.47,2.43
+ORD00168,2025-08-13,South,Online,Electronics,Headphones,2,62.32,20,99.71,82.66,17.05
+ORD00169,2025-10-01,South,Store,Home,Storage Box,3,24.42,15,62.27,39.43,22.84
+ORD00170,2025-05-25,West,Store,Fitness,Dumbbell Set,5,66.92,10,301.14,241.04,60.1
+ORD00171,2025-01-27,North,Online,Fitness,Resistance Bands,1,17.43,15,14.82,12.82,2.0
+ORD00172,2025-03-24,West,Store,Office,Office Chair,1,207.22,0,207.22,158.3,48.92
+ORD00173,2025-06-28,North,Online,Electronics,Headphones,2,38.99,0,77.98,60.7,17.28
+ORD00174,2025-01-15,North,Store,Office,Notebook Set,2,15.91,10,28.64,16.59,12.05
+ORD00175,2025-12-23,West,Online,Home,Water Bottle,2,19.38,15,32.95,18.83,14.12
+ORD00176,2025-10-08,South,Online,Fitness,Yoga Mat,1,42.17,0,42.17,23.26,18.91
+ORD00177,2025-02-26,North,Store,Fitness,Dumbbell Set,2,67.52,5,128.29,93.93,34.36
+ORD00178,2025-01-01,North,Online,Office,Notebook Set,1,12.42,10,11.18,7.91,3.27
+ORD00179,2025-09-27,East,Store,Electronics,Headphones,1,100.5,0,100.5,59.5,41.0
+ORD00180,2025-02-04,North,Online,Office,Notebook Set,2,14.53,10,26.15,20.36,5.79
+ORD00181,2025-01-23,South,Marketplace,Office,Monitor Stand,2,35.23,15,59.89,48.29,11.6
+ORD00182,2025-04-04,West,Online,Home,Desk Lamp,4,36.48,0,145.92,78.87,67.05
+ORD00183,2025-06-11,West,Store,Office,Monitor Stand,3,37.92,5,108.07,55.85,52.22
+ORD00184,2025-07-02,South,Store,Electronics,Keyboard,1,43.26,0,43.26,32.31,10.95
+ORD00185,2025-06-23,East,Marketplace,Home,Storage Box,1,19.77,10,17.79,11.07,6.72
+ORD00186,2025-08-06,East,Store,Electronics,Headphones,3,80.18,5,228.51,138.64,89.87
+ORD00187,2025-12-05,South,Online,Office,Office Chair,2,145.2,0,290.4,178.07,112.33
+ORD00188,2025-06-30,South,Store,Fitness,Resistance Bands,3,18.87,0,56.61,38.57,18.04
+ORD00189,2025-09-20,East,Online,Home,Desk Lamp,2,19.28,10,34.7,18.91,15.79
+ORD00190,2025-11-27,North,Store,Office,Office Chair,2,136.69,10,246.04,186.91,59.13
+ORD00191,2025-08-16,East,Online,Electronics,Keyboard,1,32.57,0,32.57,18.36,14.21
+ORD00192,2025-04-06,South,Online,Fitness,Dumbbell Set,2,57.09,0,114.18,63.72,50.46
+ORD00193,2025-11-10,South,Online,Office,Monitor Stand,2,61.24,0,122.48,90.13,32.35
+ORD00194,2025-08-16,North,Store,Electronics,Keyboard,5,78.22,10,351.99,270.98,81.01
+ORD00195,2025-03-22,South,Online,Home,Storage Box,1,16.65,0,16.65,8.69,7.96
+ORD00196,2025-07-04,North,Store,Office,Office Chair,2,193.49,10,348.28,195.76,152.52
+ORD00197,2025-09-03,South,Store,Fitness,Resistance Bands,1,22.0,20,17.6,14.8,2.8
+ORD00198,2025-12-15,West,Store,Office,Notebook Set,3,16.41,10,44.31,26.32,17.99
+ORD00199,2025-09-15,West,Store,Electronics,Wireless Mouse,1,26.81,0,26.81,20.39,6.42
+ORD00200,2025-09-23,North,Marketplace,Office,Notebook Set,2,8.26,5,15.69,8.55,7.14
+ORD00201,2025-10-01,North,Marketplace,Electronics,Keyboard,2,60.25,5,114.47,64.03,50.44
+ORD00202,2025-01-22,South,Marketplace,Electronics,Wireless Mouse,2,18.77,5,35.66,25.35,10.31
+ORD00203,2025-11-24,West,Marketplace,Electronics,Headphones,2,101.67,10,183.01,116.03,66.98
+ORD00204,2025-07-27,West,Store,Office,Office Chair,1,94.85,0,94.85,59.31,35.54
+ORD00205,2025-11-07,South,Online,Home,Storage Box,1,22.65,20,18.12,13.22,4.9
+ORD00206,2025-07-09,East,Store,Electronics,Headphones,1,53.13,0,53.13,27.75,25.38
+ORD00207,2025-07-16,North,Online,Fitness,Yoga Mat,4,48.69,10,175.28,148.04,27.24
+ORD00208,2025-03-23,South,Marketplace,Fitness,Dumbbell Set,3,62.68,5,178.64,95.34,83.3
+ORD00209,2025-08-23,South,Store,Home,Desk Lamp,1,32.5,0,32.5,21.43,11.07
+ORD00210,2025-10-02,North,Online,Electronics,Wireless Mouse,4,25.33,10,91.19,71.85,19.34
+ORD00211,2025-07-25,South,Marketplace,Electronics,Keyboard,1,55.9,0,55.9,33.31,22.59
+ORD00212,2025-05-24,North,Online,Electronics,Wireless Mouse,1,34.58,10,31.12,20.12,11.0
+ORD00213,2025-04-12,South,Online,Fitness,Dumbbell Set,1,32.82,10,29.54,23.67,5.87
+ORD00214,2025-11-07,North,Marketplace,Home,Storage Box,1,23.83,0,23.83,15.85,7.98
+ORD00215,2025-06-22,East,Store,Fitness,Dumbbell Set,2,69.4,0,138.8,80.42,58.38
+ORD00216,2025-10-26,West,Marketplace,Office,Monitor Stand,2,59.24,5,112.56,66.31,46.25
+ORD00217,2025-01-27,West,Online,Fitness,Yoga Mat,2,33.35,10,60.03,39.62,20.41
+ORD00218,2025-10-21,South,Marketplace,Electronics,Wireless Mouse,1,18.32,0,18.32,12.59,5.73
+ORD00219,2025-11-10,South,Marketplace,Fitness,Dumbbell Set,2,80.92,5,153.75,104.92,48.83
+ORD00220,2025-07-12,North,Marketplace,Office,Notebook Set,2,10.98,5,20.86,14.99,5.87
+ORD00221,2025-09-05,North,Marketplace,Home,Desk Lamp,1,23.37,20,18.7,18.1,0.6
+ORD00222,2025-04-17,North,Online,Fitness,Resistance Bands,2,16.16,15,27.47,22.51,4.96
+ORD00223,2025-10-21,North,Marketplace,Fitness,Resistance Bands,4,21.91,10,78.88,49.7,29.18
+ORD00224,2025-02-10,North,Marketplace,Office,Office Chair,3,173.56,0,520.68,379.26,141.42
+ORD00225,2025-12-23,West,Marketplace,Office,Notebook Set,3,6.42,0,19.26,9.54,9.72
+ORD00226,2025-04-30,East,Marketplace,Electronics,Wireless Mouse,2,25.03,0,50.06,35.6,14.46
+ORD00227,2025-03-22,North,Store,Fitness,Dumbbell Set,3,95.45,5,272.03,154.58,117.45
+ORD00228,2025-05-27,East,Online,Electronics,Wireless Mouse,1,29.09,10,26.18,21.38,4.8
+ORD00229,2025-08-02,North,Online,Home,Desk Lamp,1,44.92,5,42.67,34.18,8.49
+ORD00230,2025-01-05,South,Online,Office,Monitor Stand,4,47.13,0,188.52,116.19,72.33
+ORD00231,2025-09-16,North,Marketplace,Fitness,Resistance Bands,1,11.28,0,11.28,6.97,4.31
+ORD00232,2025-04-06,South,Store,Electronics,Keyboard,1,43.54,10,39.19,23.42,15.77
+ORD00233,2025-09-21,West,Online,Office,Notebook Set,1,10.21,20,8.17,6.36,1.81
+ORD00234,2025-05-14,East,Store,Fitness,Yoga Mat,1,30.64,0,30.64,20.06,10.58
+ORD00235,2025-12-01,North,Marketplace,Office,Monitor Stand,2,30.63,5,58.2,32.34,25.86
+ORD00236,2025-03-02,North,Store,Office,Office Chair,1,167.97,0,167.97,88.34,79.63
+ORD00237,2025-12-26,East,Marketplace,Fitness,Dumbbell Set,3,86.14,10,232.58,176.79,55.79
+ORD00238,2025-08-17,West,Marketplace,Office,Notebook Set,1,16.92,15,14.38,12.7,1.68
+ORD00239,2025-10-02,South,Online,Home,Desk Lamp,2,24.84,0,49.68,26.91,22.77
+ORD00240,2025-09-19,South,Marketplace,Fitness,Yoga Mat,2,30.87,5,58.65,30.7,27.95
+ORD00241,2025-06-07,South,Store,Electronics,Headphones,1,54.08,0,54.08,27.14,26.94
+ORD00242,2025-12-25,East,Store,Electronics,Keyboard,4,79.68,0,318.72,242.27,76.45
+ORD00243,2025-07-29,South,Store,Home,Desk Lamp,5,37.97,10,170.87,115.07,55.8
+ORD00244,2025-07-13,North,Online,Fitness,Yoga Mat,2,38.9,5,73.91,52.6,21.31
+ORD00245,2025-04-02,North,Store,Fitness,Dumbbell Set,5,38.91,15,165.37,137.52,27.85
+ORD00246,2025-12-11,West,Marketplace,Fitness,Dumbbell Set,1,56.55,5,53.72,29.78,23.94
+ORD00247,2025-02-27,West,Online,Electronics,Keyboard,3,48.06,15,122.55,69.88,52.67
+ORD00248,2025-02-21,South,Store,Electronics,Headphones,2,79.83,0,159.66,112.11,47.55
+ORD00249,2025-04-30,North,Marketplace,Home,Desk Lamp,5,19.2,0,96.0,72.47,23.53
+ORD00250,2025-11-03,North,Store,Office,Notebook Set,1,8.92,10,8.03,4.87,3.16
+ORD00251,2025-02-01,South,Marketplace,Home,Water Bottle,2,23.58,0,47.16,27.51,19.65
+ORD00252,2025-06-13,West,Store,Fitness,Resistance Bands,1,10.54,10,9.49,6.56,2.93
+ORD00253,2025-12-29,West,Store,Home,Storage Box,2,23.55,20,37.68,30.48,7.2
+ORD00254,2025-05-05,West,Online,Office,Notebook Set,1,9.29,0,9.29,5.49,3.8
+ORD00255,2025-05-18,West,Store,Fitness,Dumbbell Set,1,72.35,0,72.35,52.19,20.16
+ORD00256,2025-04-17,East,Marketplace,Office,Office Chair,1,214.2,15,182.07,164.64,17.43
+ORD00257,2025-09-03,North,Store,Home,Water Bottle,1,22.09,15,18.78,14.26,4.52
+ORD00258,2025-08-27,South,Store,Office,Office Chair,2,120.31,5,228.59,122.62,105.97
+ORD00259,2025-04-15,North,Marketplace,Office,Office Chair,2,140.88,0,281.76,147.58,134.18
+ORD00260,2025-10-27,South,Marketplace,Fitness,Resistance Bands,1,10.59,0,10.59,7.73,2.86
+ORD00261,2025-12-02,South,Online,Office,Office Chair,2,188.05,10,338.49,263.98,74.51
+ORD00262,2025-06-30,East,Marketplace,Home,Desk Lamp,2,36.61,15,62.24,47.05,15.19
+ORD00263,2025-01-18,East,Marketplace,Electronics,Keyboard,1,27.67,0,27.67,18.52,9.15
+ORD00264,2025-03-19,South,Marketplace,Electronics,Wireless Mouse,1,26.6,10,23.94,18.09,5.85
+ORD00265,2025-09-07,North,Online,Electronics,Wireless Mouse,1,27.05,0,27.05,18.84,8.21
+ORD00266,2025-09-15,North,Store,Fitness,Yoga Mat,1,18.75,0,18.75,10.08,8.67
+ORD00267,2025-05-17,West,Store,Fitness,Yoga Mat,1,28.06,5,26.66,21.8,4.86
+ORD00268,2025-12-17,South,Marketplace,Electronics,Keyboard,2,79.54,0,159.08,95.7,63.38
+ORD00269,2025-09-01,North,Marketplace,Electronics,Keyboard,1,25.52,5,24.24,15.57,8.67
+ORD00270,2025-02-18,East,Online,Electronics,Wireless Mouse,3,21.59,15,55.05,40.33,14.72
+ORD00271,2025-12-17,West,Marketplace,Office,Monitor Stand,1,45.36,15,38.56,26.05,12.51
+ORD00272,2025-03-15,North,Store,Fitness,Yoga Mat,2,25.47,5,48.39,37.43,10.96
+ORD00273,2025-03-13,East,Store,Electronics,Keyboard,1,66.0,0,66.0,36.28,29.72
+ORD00274,2025-11-06,North,Marketplace,Fitness,Resistance Bands,1,8.5,20,6.8,5.33,1.47
+ORD00275,2025-07-12,West,Marketplace,Fitness,Yoga Mat,2,38.79,0,77.58,51.64,25.94
+ORD00276,2025-02-07,North,Store,Electronics,Headphones,2,46.57,10,83.83,65.37,18.46
+ORD00277,2025-02-24,East,Online,Electronics,Wireless Mouse,1,34.03,10,30.63,17.38,13.25
+ORD00278,2025-08-09,East,Marketplace,Fitness,Dumbbell Set,1,68.83,0,68.83,40.35,28.48
+ORD00279,2025-11-03,West,Marketplace,Office,Office Chair,1,86.67,10,78.0,60.45,17.55
+ORD00280,2025-09-24,East,Online,Home,Water Bottle,1,17.61,0,17.61,11.06,6.55
+ORD00281,2025-08-11,South,Marketplace,Office,Office Chair,3,125.47,0,376.41,287.3,89.11
+ORD00282,2025-11-12,South,Store,Home,Storage Box,1,9.82,20,7.86,5.69,2.17
+ORD00283,2025-08-14,North,Marketplace,Office,Office Chair,3,195.09,20,468.22,304.83,163.39
+ORD00284,2025-12-22,South,Marketplace,Home,Storage Box,5,13.34,20,53.36,37.85,15.51
+ORD00285,2025-05-05,West,Marketplace,Office,Office Chair,3,122.84,0,368.52,279.94,88.58
+ORD00286,2025-10-07,West,Store,Home,Water Bottle,1,25.35,10,22.82,19.34,3.48
+ORD00287,2025-05-30,West,Marketplace,Electronics,Headphones,1,85.47,0,85.47,47.5,37.97
+ORD00288,2025-08-05,South,Marketplace,Fitness,Yoga Mat,2,30.72,5,58.37,39.34,19.03
+ORD00289,2025-01-19,West,Marketplace,Office,Monitor Stand,2,60.3,10,108.54,60.96,47.58
+ORD00290,2025-12-07,South,Store,Office,Notebook Set,1,13.41,20,10.73,9.16,1.57
+ORD00291,2025-08-09,West,Store,Electronics,Wireless Mouse,1,19.68,10,17.71,12.74,4.97
+ORD00292,2025-07-11,East,Store,Fitness,Resistance Bands,2,21.13,5,40.15,24.66,15.49
+ORD00293,2025-02-23,North,Store,Office,Office Chair,1,209.27,15,177.88,146.29,31.59
+ORD00294,2025-06-25,South,Store,Fitness,Yoga Mat,1,33.24,0,33.24,23.15,10.09
+ORD00295,2025-02-04,West,Marketplace,Office,Notebook Set,1,15.53,15,13.2,10.47,2.73
+ORD00296,2025-05-05,South,Marketplace,Home,Water Bottle,2,13.2,20,21.12,14.51,6.61
+ORD00297,2025-04-05,South,Marketplace,Home,Water Bottle,1,23.15,10,20.84,17.25,3.59
+ORD00298,2025-08-08,East,Marketplace,Fitness,Yoga Mat,1,39.67,10,35.7,28.67,7.03
+ORD00299,2025-02-22,North,Marketplace,Home,Storage Box,2,13.54,0,27.08,20.01,7.07
+ORD00300,2025-07-18,North,Marketplace,Fitness,Dumbbell Set,1,38.0,5,36.1,20.21,15.89
+ORD00301,2025-10-30,West,Marketplace,Electronics,Keyboard,1,32.37,0,32.37,17.32,15.05
+ORD00302,2025-07-18,West,Marketplace,Fitness,Dumbbell Set,1,39.65,0,39.65,26.59,13.06
+ORD00303,2025-03-27,North,Online,Fitness,Resistance Bands,1,10.39,5,9.87,5.15,4.72
+ORD00304,2025-09-06,South,Store,Home,Desk Lamp,5,39.46,5,187.44,124.0,63.44
+ORD00305,2025-12-30,East,Store,Fitness,Resistance Bands,2,10.84,10,19.51,11.84,7.67
+ORD00306,2025-04-26,East,Marketplace,Office,Notebook Set,2,15.15,10,27.27,19.05,8.22
+ORD00307,2025-02-28,South,Marketplace,Office,Monitor Stand,1,57.05,15,48.49,28.1,20.39
+ORD00308,2025-04-22,East,Store,Fitness,Yoga Mat,2,40.76,0,81.52,60.52,21.0
+ORD00309,2025-05-15,North,Marketplace,Office,Notebook Set,5,10.71,10,48.2,29.51,18.69
+ORD00310,2025-11-09,North,Marketplace,Fitness,Yoga Mat,3,36.57,10,98.74,79.17,19.57
+ORD00311,2025-05-24,East,Online,Home,Storage Box,1,24.64,5,23.41,18.87,4.54
+ORD00312,2025-07-30,North,Online,Electronics,Headphones,1,100.03,15,85.03,55.51,29.52
+ORD00313,2025-12-13,East,Marketplace,Fitness,Resistance Bands,2,10.42,10,18.76,12.35,6.41
+ORD00314,2025-02-17,South,Store,Fitness,Dumbbell Set,2,82.49,15,140.23,101.7,38.53
+ORD00315,2025-10-25,East,Marketplace,Electronics,Keyboard,5,30.12,10,135.54,103.79,31.75
+ORD00316,2025-07-23,West,Marketplace,Home,Storage Box,2,22.02,0,44.04,24.89,19.15
+ORD00317,2025-09-06,East,Online,Office,Monitor Stand,1,54.3,10,48.87,39.69,9.18
+ORD00318,2025-03-22,West,Marketplace,Fitness,Resistance Bands,4,8.01,0,32.04,22.0,10.04
+ORD00319,2025-06-04,West,Online,Home,Storage Box,1,9.59,0,9.59,6.51,3.08
+ORD00320,2025-07-22,East,Online,Office,Monitor Stand,1,51.47,10,46.32,35.57,10.75
+ORD00321,2025-09-02,North,Online,Electronics,Wireless Mouse,2,28.09,0,56.18,27.1,29.08
+ORD00322,2025-08-05,North,Store,Home,Storage Box,1,9.2,10,8.28,4.7,3.58
+ORD00323,2025-06-03,West,Online,Home,Storage Box,3,21.15,0,63.45,49.36,14.09
+ORD00324,2025-09-29,West,Store,Electronics,Keyboard,1,60.75,10,54.68,40.61,14.07
+ORD00325,2025-11-12,South,Store,Fitness,Yoga Mat,1,18.03,10,16.23,11.84,4.39
+ORD00326,2025-08-08,North,Marketplace,Office,Notebook Set,2,8.22,0,16.44,10.86,5.58
+ORD00327,2025-01-14,East,Online,Office,Notebook Set,2,11.73,10,21.11,13.34,7.77
+ORD00328,2025-09-11,East,Store,Fitness,Yoga Mat,2,23.44,0,46.88,35.0,11.88
+ORD00329,2025-06-12,South,Online,Home,Storage Box,2,22.63,0,45.26,31.0,14.26
+ORD00330,2025-01-09,North,Marketplace,Electronics,Wireless Mouse,1,22.46,0,22.46,16.1,6.36
+ORD00331,2025-12-31,North,Online,Fitness,Resistance Bands,1,19.93,5,18.93,13.25,5.68
+ORD00332,2025-06-08,East,Store,Electronics,Keyboard,5,75.65,0,378.25,218.64,159.61
+ORD00333,2025-12-24,East,Store,Fitness,Dumbbell Set,1,96.74,0,96.74,73.27,23.47
+ORD00334,2025-11-10,West,Marketplace,Electronics,Headphones,2,84.96,0,169.92,82.21,87.71
+ORD00335,2025-01-06,West,Store,Home,Storage Box,2,24.2,10,43.56,33.7,9.86
+ORD00336,2025-03-06,North,Marketplace,Office,Monitor Stand,3,59.89,0,179.67,129.75,49.92
+ORD00337,2025-02-02,East,Store,Office,Monitor Stand,2,63.88,5,121.37,80.9,40.47
+ORD00338,2025-10-18,East,Online,Home,Storage Box,3,10.67,15,27.21,21.84,5.37
+ORD00339,2025-09-18,West,Online,Electronics,Wireless Mouse,1,32.6,0,32.6,19.21,13.39
+ORD00340,2025-01-19,East,Marketplace,Fitness,Yoga Mat,1,26.26,10,23.63,14.74,8.89
+ORD00341,2025-07-10,East,Store,Electronics,Keyboard,1,62.03,0,62.03,39.37,22.66
+ORD00342,2025-02-05,North,Online,Fitness,Resistance Bands,1,21.15,0,21.15,13.05,8.1
+ORD00343,2025-05-30,West,Marketplace,Office,Monitor Stand,2,48.02,5,91.24,60.31,30.93
+ORD00344,2025-10-07,East,Store,Home,Desk Lamp,1,15.19,0,15.19,8.87,6.32
+ORD00345,2025-01-01,South,Online,Fitness,Dumbbell Set,1,80.91,5,76.86,44.62,32.24
+ORD00346,2025-03-14,North,Store,Office,Notebook Set,1,5.57,15,4.73,3.36,1.37
+ORD00347,2025-02-13,South,Marketplace,Electronics,Keyboard,3,32.34,0,97.02,63.1,33.92
+ORD00348,2025-03-08,North,Store,Home,Storage Box,1,12.44,10,11.2,8.59,2.61
+ORD00349,2025-08-20,West,Online,Office,Notebook Set,1,5.97,10,5.37,3.91,1.46
+ORD00350,2025-03-26,South,Store,Fitness,Resistance Bands,1,13.34,0,13.34,9.49,3.85
+ORD00351,2025-08-26,East,Online,Office,Notebook Set,3,6.18,0,18.54,12.82,5.72
+ORD00352,2025-06-17,North,Store,Home,Desk Lamp,5,36.33,0,181.65,89.86,91.79
+ORD00353,2025-03-31,East,Online,Electronics,Headphones,2,99.1,5,188.29,100.77,87.52
+ORD00354,2025-03-04,North,Marketplace,Electronics,Wireless Mouse,5,32.12,0,160.6,116.77,43.83
+ORD00355,2025-11-19,West,Marketplace,Electronics,Keyboard,4,57.24,0,228.96,178.39,50.57
+ORD00356,2025-08-16,South,Online,Home,Desk Lamp,3,42.15,0,126.45,62.32,64.13
+ORD00357,2025-03-28,West,Online,Fitness,Dumbbell Set,1,57.65,10,51.88,30.66,21.22
+ORD00358,2025-05-21,North,Store,Office,Office Chair,1,204.26,10,183.83,113.11,70.72
+ORD00359,2025-07-30,West,Marketplace,Fitness,Yoga Mat,1,18.07,0,18.07,12.16,5.91
+ORD00360,2025-10-06,North,Store,Electronics,Headphones,1,93.64,5,88.96,58.56,30.4
+ORD00361,2025-05-19,East,Store,Home,Desk Lamp,1,24.57,15,20.88,17.53,3.35
+ORD00362,2025-09-29,North,Marketplace,Office,Monitor Stand,5,64.98,0,324.9,219.98,104.92
+ORD00363,2025-01-29,West,Online,Home,Water Bottle,3,26.93,0,80.79,59.12,21.67
+ORD00364,2025-05-02,West,Marketplace,Office,Monitor Stand,4,51.39,0,205.56,141.87,63.69
+ORD00365,2025-04-07,West,Online,Fitness,Dumbbell Set,2,51.63,0,103.26,56.77,46.49
+ORD00366,2025-09-27,West,Store,Fitness,Yoga Mat,2,26.61,10,47.9,30.99,16.91
+ORD00367,2025-01-31,North,Online,Electronics,Wireless Mouse,4,27.97,10,100.69,82.11,18.58
+ORD00368,2025-07-11,South,Marketplace,Fitness,Dumbbell Set,1,37.07,0,37.07,19.55,17.52
+ORD00369,2025-09-07,North,Online,Office,Notebook Set,2,14.19,15,24.12,18.85,5.27
+ORD00370,2025-12-07,South,Marketplace,Home,Storage Box,2,13.22,0,26.44,18.47,7.97
+ORD00371,2025-01-17,East,Store,Home,Water Bottle,3,16.36,10,44.17,32.98,11.19
+ORD00372,2025-03-14,East,Marketplace,Office,Monitor Stand,1,23.5,0,23.5,15.77,7.73
+ORD00373,2025-12-10,East,Marketplace,Office,Office Chair,1,86.54,10,77.89,50.64,27.25
+ORD00374,2025-01-01,South,Store,Electronics,Headphones,1,67.87,0,67.87,41.01,26.86
+ORD00375,2025-10-07,West,Online,Fitness,Yoga Mat,3,44.01,5,125.43,93.41,32.02
+ORD00376,2025-08-20,West,Store,Electronics,Wireless Mouse,1,23.01,20,18.41,11.56,6.85
+ORD00377,2025-03-24,South,Marketplace,Electronics,Keyboard,5,76.8,0,384.0,297.82,86.18
+ORD00378,2025-01-16,West,Online,Fitness,Dumbbell Set,4,41.55,0,166.2,84.82,81.38
+ORD00379,2025-07-29,South,Online,Office,Monitor Stand,1,32.67,0,32.67,21.29,11.38
+ORD00380,2025-01-28,West,Online,Office,Notebook Set,1,10.56,10,9.5,6.97,2.53
+ORD00381,2025-01-14,South,Store,Home,Desk Lamp,5,34.15,5,162.21,87.88,74.33
+ORD00382,2025-09-08,West,Store,Office,Notebook Set,1,13.34,0,13.34,7.93,5.41
+ORD00383,2025-01-23,East,Online,Office,Office Chair,1,147.78,0,147.78,73.67,74.11
+ORD00384,2025-12-09,South,Marketplace,Office,Monitor Stand,3,38.63,0,115.89,57.75,58.14
+ORD00385,2025-08-03,East,Marketplace,Fitness,Dumbbell Set,2,91.72,0,183.44,137.73,45.71
+ORD00386,2025-10-20,West,Online,Home,Desk Lamp,1,43.48,20,34.78,23.05,11.73
+ORD00387,2025-03-06,West,Marketplace,Electronics,Headphones,2,40.88,0,81.76,59.42,22.34
+ORD00388,2025-05-13,North,Store,Office,Monitor Stand,1,61.14,0,61.14,36.64,24.5
+ORD00389,2025-09-24,South,Online,Fitness,Yoga Mat,2,42.53,5,80.81,51.54,29.27
+ORD00390,2025-03-17,North,Store,Electronics,Wireless Mouse,1,27.57,0,27.57,17.66,9.91
+ORD00391,2025-05-16,West,Marketplace,Fitness,Dumbbell Set,2,63.99,0,127.98,72.0,55.98
+ORD00392,2025-11-08,South,Store,Fitness,Yoga Mat,3,28.85,10,77.9,42.82,35.08
+ORD00393,2025-07-10,East,Online,Electronics,Headphones,1,96.3,0,96.3,60.43,35.87
+ORD00394,2025-03-10,East,Online,Office,Monitor Stand,3,39.94,0,119.82,72.49,47.33
+ORD00395,2025-08-15,West,Online,Home,Storage Box,3,20.6,15,52.53,44.89,7.64
+ORD00396,2025-06-09,West,Online,Fitness,Yoga Mat,2,42.32,5,80.41,45.04,35.37
+ORD00397,2025-05-08,South,Marketplace,Electronics,Headphones,1,38.79,0,38.79,22.91,15.88
+ORD00398,2025-07-23,South,Marketplace,Electronics,Keyboard,1,26.68,5,25.35,14.23,11.12
+ORD00399,2025-10-10,North,Online,Office,Office Chair,4,107.07,10,385.45,294.08,91.37
+ORD00400,2025-07-17,West,Marketplace,Electronics,Wireless Mouse,3,32.51,0,97.53,53.29,44.24
+ORD00401,2025-04-16,East,Store,Office,Monitor Stand,1,38.43,10,34.59,27.3,7.29
+ORD00402,2025-03-09,North,Store,Home,Water Bottle,1,26.02,10,23.42,19.85,3.57
+ORD00403,2025-07-12,South,Marketplace,Office,Office Chair,2,119.02,10,214.24,173.12,41.12
+ORD00404,2025-02-22,North,Store,Electronics,Keyboard,5,79.97,15,339.87,259.28,80.59
+ORD00405,2025-12-17,North,Marketplace,Electronics,Headphones,5,39.79,10,179.06,146.91,32.15
+ORD00406,2025-12-31,South,Marketplace,Office,Notebook Set,3,6.95,15,17.72,15.05,2.67
+ORD00407,2025-06-13,South,Store,Home,Water Bottle,2,10.51,0,21.02,15.81,5.21
+ORD00408,2025-01-19,North,Marketplace,Home,Storage Box,1,20.35,5,19.33,14.56,4.77
+ORD00409,2025-06-03,North,Marketplace,Home,Water Bottle,1,27.53,0,27.53,14.27,13.26
+ORD00410,2025-10-14,North,Store,Home,Water Bottle,2,27.99,0,55.98,30.62,25.36
+ORD00411,2025-06-19,East,Store,Office,Office Chair,2,164.05,0,328.1,162.77,165.33
+ORD00412,2025-04-10,West,Online,Electronics,Keyboard,1,45.99,0,45.99,33.86,12.13
+ORD00413,2025-06-25,West,Online,Fitness,Dumbbell Set,5,92.5,0,462.5,341.66,120.84
+ORD00414,2025-09-07,West,Online,Office,Monitor Stand,1,64.4,0,64.4,39.65,24.75
+ORD00415,2025-10-23,South,Store,Home,Storage Box,3,21.35,0,64.05,39.08,24.97
+ORD00416,2025-08-08,North,Marketplace,Fitness,Resistance Bands,2,8.08,10,14.54,12.36,2.18
+ORD00417,2025-04-08,North,Online,Electronics,Keyboard,3,25.23,0,75.69,56.24,19.45
+ORD00418,2025-02-22,North,Store,Fitness,Dumbbell Set,1,71.21,15,60.53,40.55,19.98
+ORD00419,2025-09-24,North,Online,Office,Office Chair,5,204.88,0,1024.4,768.73,255.67
+ORD00420,2025-03-26,West,Online,Fitness,Yoga Mat,2,22.99,0,45.98,32.2,13.78
+ORD00421,2025-07-07,East,Marketplace,Electronics,Headphones,1,100.74,5,95.7,49.82,45.88
+ORD00422,2025-02-25,South,Marketplace,Electronics,Wireless Mouse,1,29.73,0,29.73,19.15,10.58
+ORD00423,2025-03-20,North,Marketplace,Home,Water Bottle,1,23.71,0,23.71,12.1,11.61
+ORD00424,2025-11-07,East,Online,Home,Storage Box,1,22.12,10,19.91,11.4,8.51
+ORD00425,2025-09-12,South,Store,Home,Water Bottle,1,13.99,5,13.29,7.56,5.73
+ORD00426,2025-03-24,East,Online,Electronics,Keyboard,1,52.3,15,44.45,30.29,14.16
+ORD00427,2025-12-10,East,Marketplace,Electronics,Wireless Mouse,2,32.2,0,64.4,32.65,31.75
+ORD00428,2025-02-21,East,Online,Office,Monitor Stand,5,30.4,0,152.0,94.13,57.87
+ORD00429,2025-01-21,East,Online,Office,Office Chair,1,193.22,10,173.9,98.25,75.65
+ORD00430,2025-03-12,East,Store,Home,Storage Box,1,14.08,10,12.67,10.47,2.2
+ORD00431,2025-06-25,South,Store,Home,Desk Lamp,5,27.02,0,135.1,80.48,54.62
+ORD00432,2025-11-29,East,Store,Home,Desk Lamp,2,18.98,20,30.37,27.84,2.53
+ORD00433,2025-10-30,East,Marketplace,Fitness,Dumbbell Set,1,77.49,0,77.49,45.53,31.96
+ORD00434,2025-03-08,North,Online,Fitness,Resistance Bands,1,9.92,0,9.92,5.54,4.38
+ORD00435,2025-12-27,South,Marketplace,Home,Water Bottle,2,27.46,10,49.43,36.55,12.88
+ORD00436,2025-05-08,East,Online,Fitness,Resistance Bands,2,19.28,0,38.56,28.07,10.49
+ORD00437,2025-11-26,South,Store,Home,Water Bottle,3,26.98,15,68.8,40.67,28.13
+ORD00438,2025-05-04,West,Online,Office,Office Chair,1,91.8,10,82.62,55.17,27.45
+ORD00439,2025-08-24,South,Marketplace,Fitness,Dumbbell Set,3,61.37,0,184.11,94.93,89.18
+ORD00440,2025-12-01,North,Marketplace,Electronics,Wireless Mouse,1,24.86,5,23.62,18.09,5.53
+ORD00441,2025-10-15,West,Store,Home,Water Bottle,4,23.43,0,93.72,46.51,47.21
+ORD00442,2025-06-19,West,Online,Fitness,Dumbbell Set,2,76.0,0,152.0,107.58,44.42
+ORD00443,2025-06-24,East,Online,Office,Monitor Stand,1,63.4,5,60.23,43.79,16.44
+ORD00444,2025-09-10,East,Store,Home,Water Bottle,1,24.85,0,24.85,13.39,11.46
+ORD00445,2025-04-21,East,Store,Fitness,Yoga Mat,1,40.09,0,40.09,30.39,9.7
+ORD00446,2025-08-23,South,Marketplace,Home,Storage Box,3,8.07,5,23.0,14.76,8.24
+ORD00447,2025-04-01,North,Marketplace,Home,Water Bottle,1,26.3,10,23.67,17.41,6.26
+ORD00448,2025-07-16,North,Store,Fitness,Dumbbell Set,3,94.11,0,282.33,217.13,65.2
+ORD00449,2025-03-10,North,Marketplace,Home,Storage Box,4,18.24,5,69.31,53.47,15.84
+ORD00450,2025-10-11,West,Marketplace,Home,Desk Lamp,2,21.29,10,38.32,32.21,6.11
+ORD00451,2025-11-29,South,Marketplace,Home,Water Bottle,2,20.85,10,37.53,29.53,8.0
+ORD00452,2025-10-20,East,Marketplace,Fitness,Dumbbell Set,3,82.35,0,247.05,181.38,65.67
+ORD00453,2025-02-24,West,Store,Electronics,Headphones,2,45.9,0,91.8,64.72,27.08
+ORD00454,2025-12-16,East,Store,Office,Notebook Set,2,15.91,0,31.82,22.47,9.35
+ORD00455,2025-08-20,South,Online,Electronics,Keyboard,3,72.74,15,185.49,153.35,32.14
+ORD00456,2025-09-19,North,Marketplace,Office,Monitor Stand,4,49.9,0,199.6,153.1,46.5
+ORD00457,2025-01-28,West,Marketplace,Electronics,Keyboard,2,38.82,10,69.88,57.53,12.35
+ORD00458,2025-12-27,North,Store,Office,Monitor Stand,2,44.6,10,80.28,68.62,11.66
+ORD00459,2025-04-01,North,Marketplace,Electronics,Wireless Mouse,3,34.36,0,103.08,50.73,52.35
+ORD00460,2025-05-16,West,Online,Home,Desk Lamp,1,32.52,0,32.52,22.53,9.99
+ORD00461,2025-03-20,South,Marketplace,Office,Monitor Stand,4,22.29,10,80.24,60.5,19.74
+ORD00462,2025-10-09,East,Marketplace,Office,Notebook Set,1,15.19,0,15.19,8.13,7.06
+ORD00463,2025-03-23,North,Store,Fitness,Dumbbell Set,1,67.59,0,67.59,36.77,30.82
+ORD00464,2025-07-04,East,Online,Office,Notebook Set,2,17.35,5,32.97,22.5,10.47
+ORD00465,2025-12-09,East,Marketplace,Office,Office Chair,2,117.45,15,199.66,129.93,69.73
+ORD00466,2025-06-14,North,Marketplace,Fitness,Yoga Mat,2,28.51,0,57.02,42.96,14.06
+ORD00467,2025-09-18,East,Online,Fitness,Resistance Bands,4,8.75,0,35.0,22.2,12.8
+ORD00468,2025-10-03,South,Online,Electronics,Keyboard,2,28.6,10,51.48,42.3,9.18
+ORD00469,2025-04-16,North,Online,Fitness,Dumbbell Set,1,87.17,10,78.45,42.46,35.99
+ORD00470,2025-02-14,North,Store,Electronics,Wireless Mouse,1,21.03,0,21.03,15.28,5.75
+ORD00471,2025-07-18,East,Marketplace,Fitness,Dumbbell Set,1,58.31,0,58.31,30.06,28.25
+ORD00472,2025-11-13,East,Store,Electronics,Keyboard,2,57.21,0,114.42,86.78,27.64
+ORD00473,2025-12-18,East,Store,Office,Monitor Stand,3,23.89,0,71.67,42.9,28.77
+ORD00474,2025-03-22,West,Store,Home,Desk Lamp,3,37.4,15,95.37,63.78,31.59
+ORD00475,2025-12-13,South,Marketplace,Office,Notebook Set,2,12.2,0,24.4,11.75,12.65
+ORD00476,2025-10-08,West,Online,Electronics,Headphones,3,50.75,10,137.03,82.75,54.28
+ORD00477,2025-04-05,East,Marketplace,Home,Water Bottle,1,26.69,0,26.69,19.21,7.48
+ORD00478,2025-08-25,North,Store,Electronics,Headphones,1,85.38,0,85.38,55.85,29.53
+ORD00479,2025-03-07,North,Marketplace,Home,Desk Lamp,1,23.55,0,23.55,14.74,8.81
+ORD00480,2025-12-04,South,Online,Office,Monitor Stand,2,46.29,0,92.58,53.22,39.36
+ORD00481,2025-01-03,North,Online,Office,Notebook Set,2,15.21,10,27.38,17.13,10.25
+ORD00482,2025-12-14,West,Marketplace,Office,Office Chair,1,147.48,0,147.48,95.2,52.28
+ORD00483,2025-11-07,East,Marketplace,Electronics,Headphones,1,99.4,5,94.43,55.56,38.87
+ORD00484,2025-02-08,West,Online,Electronics,Keyboard,3,59.74,5,170.26,127.38,42.88
+ORD00485,2025-10-10,South,Online,Office,Monitor Stand,2,60.23,10,108.41,63.19,45.22
+ORD00486,2025-10-29,West,Marketplace,Office,Notebook Set,2,11.04,0,22.08,13.92,8.16
+ORD00487,2025-12-17,West,Marketplace,Home,Water Bottle,1,12.81,5,12.17,8.32,3.85
+ORD00488,2025-09-05,East,Marketplace,Office,Notebook Set,2,7.84,0,15.68,9.26,6.42
+ORD00489,2025-04-16,North,Online,Office,Office Chair,2,148.41,0,296.82,229.79,67.03
+ORD00490,2025-12-27,North,Marketplace,Office,Monitor Stand,2,31.85,0,63.7,43.07,20.63
+ORD00491,2025-12-01,North,Store,Electronics,Keyboard,5,38.84,0,194.2,116.86,77.34
+ORD00492,2025-09-04,North,Online,Electronics,Keyboard,1,73.51,0,73.51,46.63,26.88
+ORD00493,2025-03-18,North,Marketplace,Home,Desk Lamp,2,25.87,0,51.74,28.41,23.33
+ORD00494,2025-02-28,East,Online,Fitness,Dumbbell Set,1,63.52,0,63.52,46.37,17.15
+ORD00495,2025-01-23,West,Online,Home,Water Bottle,1,21.85,5,20.76,16.33,4.43
+ORD00496,2025-03-27,North,Online,Office,Notebook Set,1,11.72,20,9.38,7.87,1.51
+ORD00497,2025-04-21,West,Marketplace,Fitness,Dumbbell Set,3,99.49,0,298.47,217.62,80.85
+ORD00498,2025-04-04,West,Store,Office,Notebook Set,1,14.41,5,13.69,9.47,4.22
+ORD00499,2025-07-17,West,Marketplace,Home,Desk Lamp,2,15.5,15,26.35,21.24,5.11
+ORD00500,2025-02-19,East,Online,Home,Storage Box,2,23.33,15,39.66,29.84,9.82
+ORD00501,2025-09-04,South,Marketplace,Home,Water Bottle,1,20.79,15,17.67,14.21,3.46
+ORD00502,2025-08-04,South,Store,Office,Notebook Set,1,14.07,15,11.96,8.79,3.17
+ORD00503,2025-10-29,North,Marketplace,Electronics,Headphones,2,45.04,0,90.08,66.45,23.63
+ORD00504,2025-10-06,East,Marketplace,Fitness,Resistance Bands,2,11.21,10,20.18,14.65,5.53
+ORD00505,2025-01-04,South,Marketplace,Fitness,Dumbbell Set,3,44.38,0,133.14,68.16,64.98
+ORD00506,2025-10-27,South,Online,Office,Office Chair,1,200.42,0,200.42,112.77,87.65
+ORD00507,2025-07-31,North,Marketplace,Fitness,Yoga Mat,2,27.96,0,55.92,31.99,23.93
+ORD00508,2025-07-23,East,Online,Home,Water Bottle,1,12.38,10,11.14,9.47,1.67
+ORD00509,2025-09-18,South,Marketplace,Fitness,Resistance Bands,2,21.61,10,38.9,21.42,17.48
+ORD00510,2025-01-03,North,Online,Electronics,Wireless Mouse,2,26.02,0,52.04,29.09,22.95
+ORD00511,2025-11-08,East,Online,Electronics,Keyboard,5,46.14,10,207.63,146.79,60.84
+ORD00512,2025-11-24,West,Online,Fitness,Resistance Bands,3,8.18,15,20.86,15.59,5.27
+ORD00513,2025-11-03,West,Online,Home,Water Bottle,1,13.39,0,13.39,6.43,6.96
+ORD00514,2025-05-22,East,Online,Fitness,Resistance Bands,1,19.38,0,19.38,9.39,9.99
+ORD00515,2025-10-09,North,Online,Office,Monitor Stand,4,57.34,0,229.36,176.37,52.99
+ORD00516,2025-11-07,East,Marketplace,Home,Storage Box,2,23.81,0,47.62,28.67,18.95
+ORD00517,2025-02-07,North,Marketplace,Office,Office Chair,3,212.85,20,510.84,474.34,36.5
+ORD00518,2025-08-15,South,Marketplace,Fitness,Dumbbell Set,1,63.85,0,63.85,45.5,18.35
+ORD00519,2025-01-15,West,Store,Fitness,Yoga Mat,1,24.02,10,21.62,13.12,8.5
+ORD00520,2025-07-31,South,Marketplace,Office,Monitor Stand,2,44.1,0,88.2,49.94,38.26
+ORD00521,2025-06-25,North,Online,Electronics,Keyboard,2,76.23,0,152.46,114.09,38.37
+ORD00522,2025-12-16,West,Online,Home,Storage Box,1,20.53,0,20.53,11.49,9.04
+ORD00523,2025-05-08,South,Marketplace,Office,Notebook Set,1,15.13,0,15.13,11.6,3.53
+ORD00524,2025-01-04,North,Store,Electronics,Headphones,1,62.84,15,53.41,46.77,6.64
+ORD00525,2025-04-04,South,Marketplace,Office,Office Chair,2,114.98,0,229.96,165.52,64.44
+ORD00526,2025-01-17,South,Store,Office,Office Chair,3,201.15,5,573.28,311.45,261.83
+ORD00527,2025-12-19,North,Online,Electronics,Wireless Mouse,1,29.46,0,29.46,17.34,12.12
+ORD00528,2025-10-08,South,Online,Office,Notebook Set,4,8.5,0,34.0,18.2,15.8
+ORD00529,2025-08-03,West,Online,Office,Office Chair,1,200.33,0,200.33,104.04,96.29
+ORD00530,2025-05-19,West,Store,Home,Water Bottle,1,18.64,0,18.64,14.31,4.33
+ORD00531,2025-01-05,North,Store,Home,Storage Box,5,16.49,15,70.08,52.36,17.72
+ORD00532,2025-06-03,West,Store,Office,Monitor Stand,1,58.63,0,58.63,31.02,27.61
+ORD00533,2025-09-01,North,Store,Electronics,Headphones,1,90.84,0,90.84,58.8,32.04
+ORD00534,2025-01-11,West,Store,Fitness,Yoga Mat,2,27.29,10,49.12,35.64,13.48
+ORD00535,2025-07-01,North,Store,Office,Monitor Stand,3,42.97,0,128.91,64.91,64.0
+ORD00536,2025-11-20,South,Online,Home,Desk Lamp,4,34.22,0,136.88,90.85,46.03
+ORD00537,2025-02-10,South,Store,Home,Storage Box,1,11.88,0,11.88,6.66,5.22
+ORD00538,2025-08-16,East,Online,Office,Monitor Stand,5,46.41,0,232.05,124.19,107.86
+ORD00539,2025-05-01,East,Store,Office,Monitor Stand,1,51.53,0,51.53,26.33,25.2
+ORD00540,2025-10-08,West,Online,Electronics,Wireless Mouse,2,31.11,20,49.78,31.81,17.97
+ORD00541,2025-12-02,West,Online,Fitness,Resistance Bands,3,11.9,0,35.7,18.49,17.21
+ORD00542,2025-01-18,South,Online,Office,Office Chair,2,201.67,15,342.84,306.72,36.12
+ORD00543,2025-12-24,North,Store,Home,Water Bottle,2,21.95,10,39.51,28.5,11.01
+ORD00544,2025-09-04,East,Marketplace,Home,Desk Lamp,1,28.26,0,28.26,16.14,12.12
+ORD00545,2025-03-11,South,Store,Office,Office Chair,1,148.34,15,126.09,113.34,12.75
+ORD00546,2025-01-05,South,Store,Fitness,Resistance Bands,3,18.15,5,51.73,29.22,22.51
+ORD00547,2025-05-08,South,Marketplace,Home,Water Bottle,1,24.74,0,24.74,13.83,10.91
+ORD00548,2025-05-03,East,Online,Office,Office Chair,2,172.54,0,345.08,185.1,159.98
+ORD00549,2025-03-11,West,Store,Office,Notebook Set,2,13.28,0,26.56,17.71,8.85
+ORD00550,2025-01-10,West,Marketplace,Home,Desk Lamp,1,44.09,20,35.27,24.89,10.38
+ORD00551,2025-08-13,South,Store,Electronics,Wireless Mouse,1,19.53,0,19.53,11.84,7.69
+ORD00552,2025-08-26,South,Online,Electronics,Headphones,3,41.02,0,123.06,68.91,54.15
+ORD00553,2025-10-06,East,Marketplace,Fitness,Yoga Mat,3,21.73,10,58.67,47.49,11.18
+ORD00554,2025-05-08,East,Marketplace,Fitness,Resistance Bands,5,12.2,0,61.0,42.74,18.26
+ORD00555,2025-12-07,East,Marketplace,Home,Storage Box,5,14.62,15,62.13,38.57,23.56
+ORD00556,2025-10-09,West,Online,Electronics,Headphones,1,71.09,0,71.09,35.23,35.86
+ORD00557,2025-05-01,West,Online,Fitness,Resistance Bands,3,8.26,5,23.54,14.84,8.7
+ORD00558,2025-01-22,East,Marketplace,Fitness,Dumbbell Set,1,71.73,0,71.73,37.82,33.91
+ORD00559,2025-11-13,East,Online,Office,Monitor Stand,1,22.7,0,22.7,14.55,8.15
+ORD00560,2025-09-07,South,Marketplace,Home,Storage Box,3,24.69,10,66.66,53.45,13.21
+ORD00561,2025-04-09,South,Marketplace,Electronics,Keyboard,2,45.78,0,91.56,45.03,46.53
+ORD00562,2025-05-31,West,Online,Fitness,Yoga Mat,2,34.83,0,69.66,43.23,26.43
+ORD00563,2025-09-29,South,Marketplace,Home,Storage Box,1,13.03,0,13.03,6.26,6.77
+ORD00564,2025-04-05,South,Online,Electronics,Keyboard,3,72.13,0,216.39,150.67,65.72
+ORD00565,2025-09-26,East,Marketplace,Fitness,Dumbbell Set,1,40.79,0,40.79,23.52,17.27
+ORD00566,2025-12-04,South,Online,Electronics,Wireless Mouse,1,32.2,15,27.37,17.41,9.96
+ORD00567,2025-02-20,North,Online,Electronics,Keyboard,1,60.3,5,57.28,40.23,17.05
+ORD00568,2025-07-07,East,Store,Home,Water Bottle,1,24.36,15,20.71,16.49,4.22
+ORD00569,2025-11-24,East,Marketplace,Electronics,Headphones,4,76.85,0,307.4,181.59,125.81
+ORD00570,2025-05-17,East,Online,Electronics,Keyboard,1,28.87,20,23.1,22.18,0.92
+ORD00571,2025-04-29,South,Marketplace,Fitness,Yoga Mat,2,21.76,5,41.34,33.26,8.08
+ORD00572,2025-02-24,West,Marketplace,Office,Monitor Stand,2,40.64,15,69.09,43.08,26.01
+ORD00573,2025-07-25,North,Marketplace,Office,Monitor Stand,5,27.12,0,135.6,79.42,56.18
+ORD00574,2025-06-16,West,Store,Office,Office Chair,1,188.16,10,169.34,124.66,44.68
+ORD00575,2025-10-09,North,Marketplace,Office,Office Chair,1,214.82,0,214.82,149.92,64.9
+ORD00576,2025-01-09,North,Marketplace,Home,Storage Box,5,8.11,0,40.55,23.29,17.26
+ORD00577,2025-09-19,West,Online,Home,Desk Lamp,1,16.13,0,16.13,9.52,6.61
+ORD00578,2025-05-12,North,Store,Office,Notebook Set,2,12.42,0,24.84,12.5,12.34
+ORD00579,2025-03-30,East,Marketplace,Fitness,Dumbbell Set,3,79.2,0,237.6,159.83,77.77
+ORD00580,2025-10-23,South,Store,Fitness,Yoga Mat,4,42.3,0,169.2,125.87,43.33
+ORD00581,2025-03-03,South,Online,Home,Water Bottle,2,23.06,0,46.12,32.89,13.23
+ORD00582,2025-06-06,East,Marketplace,Electronics,Headphones,1,75.49,5,71.72,41.24,30.48
+ORD00583,2025-07-21,West,Online,Fitness,Dumbbell Set,1,70.27,0,70.27,50.31,19.96
+ORD00584,2025-06-22,South,Marketplace,Electronics,Headphones,1,77.86,0,77.86,39.36,38.5
+ORD00585,2025-03-08,West,Online,Home,Storage Box,2,17.51,10,31.52,18.87,12.65
+ORD00586,2025-02-06,South,Store,Office,Office Chair,4,128.66,0,514.64,350.74,163.9
+ORD00587,2025-06-28,North,Marketplace,Home,Storage Box,2,13.86,10,24.95,14.71,10.24
+ORD00588,2025-08-15,East,Online,Home,Storage Box,3,8.76,0,26.28,15.56,10.72
+ORD00589,2025-01-28,East,Store,Home,Water Bottle,3,28.53,15,72.75,41.44,31.31
+ORD00590,2025-08-19,North,Marketplace,Fitness,Yoga Mat,3,26.62,0,79.86,51.42,28.44
+ORD00591,2025-09-05,East,Store,Home,Water Bottle,1,23.98,5,22.78,16.28,6.5
+ORD00592,2025-03-29,East,Online,Electronics,Headphones,2,50.05,0,100.1,62.01,38.09
+ORD00593,2025-07-18,South,Online,Office,Monitor Stand,2,58.34,15,99.18,56.67,42.51
+ORD00594,2025-07-14,South,Marketplace,Electronics,Headphones,2,71.35,0,142.7,77.01,65.69
+ORD00595,2025-12-31,West,Online,Electronics,Wireless Mouse,2,22.21,0,44.42,26.56,17.86
+ORD00596,2025-06-27,East,Marketplace,Office,Office Chair,1,169.41,20,135.53,106.79,28.74
+ORD00597,2025-05-12,South,Marketplace,Fitness,Yoga Mat,4,48.04,0,192.16,111.94,80.22
+ORD00598,2025-03-12,West,Store,Electronics,Keyboard,5,46.02,10,207.09,153.63,53.46
+ORD00599,2025-05-04,West,Marketplace,Home,Storage Box,4,24.5,0,98.0,62.98,35.02
+ORD00600,2025-03-12,West,Marketplace,Home,Desk Lamp,2,24.27,5,46.11,25.27,20.84
+ORD00601,2025-10-17,West,Marketplace,Home,Storage Box,2,9.15,10,16.47,9.79,6.68
+ORD00602,2025-01-16,North,Online,Office,Office Chair,1,214.76,10,193.28,156.03,37.25
+ORD00603,2025-04-07,West,Marketplace,Electronics,Wireless Mouse,3,21.14,10,57.08,35.52,21.56
+ORD00604,2025-04-29,South,Marketplace,Home,Water Bottle,1,10.52,10,9.47,5.47,4.0
+ORD00605,2025-11-29,East,Store,Office,Notebook Set,2,16.08,0,32.16,17.3,14.86
+ORD00606,2025-01-08,West,Store,Office,Office Chair,2,115.04,0,230.08,124.56,105.52
+ORD00607,2025-11-12,East,Marketplace,Fitness,Dumbbell Set,2,52.74,0,105.48,63.44,42.04
+ORD00608,2025-07-14,East,Marketplace,Office,Office Chair,3,167.55,5,477.52,320.47,157.05
+ORD00609,2025-02-25,South,Marketplace,Fitness,Resistance Bands,1,22.06,20,17.65,14.02,3.63
+ORD00610,2025-01-21,North,Store,Fitness,Dumbbell Set,5,83.56,0,417.8,255.64,162.16
+ORD00611,2025-08-25,South,Marketplace,Home,Storage Box,4,13.01,10,46.84,39.09,7.75
+ORD00612,2025-08-20,West,Store,Electronics,Keyboard,1,52.54,5,49.91,39.32,10.59
+ORD00613,2025-07-31,South,Online,Office,Office Chair,2,88.36,15,150.21,132.32,17.89
+ORD00614,2025-05-09,East,Online,Office,Monitor Stand,2,49.19,0,98.38,68.86,29.52
+ORD00615,2025-12-28,West,Store,Fitness,Dumbbell Set,2,55.41,0,110.82,79.49,31.33
+ORD00616,2025-10-09,West,Online,Fitness,Yoga Mat,4,41.89,5,159.18,113.58,45.6
+ORD00617,2025-03-16,North,Marketplace,Home,Water Bottle,1,11.03,10,9.93,8.47,1.46
+ORD00618,2025-04-03,South,Store,Electronics,Wireless Mouse,1,34.33,10,30.9,16.6,14.3
+ORD00619,2025-10-06,South,Store,Electronics,Keyboard,1,73.55,5,69.87,45.8,24.07
+ORD00620,2025-02-10,West,Online,Electronics,Wireless Mouse,1,33.0,10,29.7,23.96,5.74
+ORD00621,2025-04-05,North,Store,Home,Desk Lamp,1,34.6,15,29.41,23.53,5.88
+ORD00622,2025-02-14,West,Store,Electronics,Wireless Mouse,1,25.09,10,22.58,16.64,5.94
+ORD00623,2025-10-24,East,Store,Office,Notebook Set,1,6.21,0,6.21,3.69,2.52
+ORD00624,2025-10-09,South,Marketplace,Electronics,Headphones,1,70.31,15,59.76,40.69,19.07
+ORD00625,2025-04-18,East,Store,Home,Water Bottle,2,11.16,20,17.86,14.26,3.6
+ORD00626,2025-12-19,North,Online,Office,Office Chair,1,167.19,5,158.83,130.16,28.67
+ORD00627,2025-11-11,West,Marketplace,Fitness,Dumbbell Set,2,81.04,10,145.87,120.77,25.1
+ORD00628,2025-05-29,West,Marketplace,Home,Desk Lamp,2,18.55,10,33.39,26.02,7.37
+ORD00629,2025-08-01,West,Marketplace,Fitness,Yoga Mat,2,26.68,10,48.02,25.79,22.23
+ORD00630,2025-05-25,North,Store,Office,Notebook Set,2,9.0,0,18.0,8.67,9.33
+ORD00631,2025-07-22,South,Online,Electronics,Wireless Mouse,3,21.3,15,54.32,39.86,14.46
+ORD00632,2025-11-27,South,Store,Home,Storage Box,2,10.64,15,18.09,15.93,2.16
+ORD00633,2025-01-29,North,Store,Office,Monitor Stand,1,52.62,5,49.99,28.55,21.44
+ORD00634,2025-02-03,West,Marketplace,Home,Storage Box,1,22.29,0,22.29,14.27,8.02
+ORD00635,2025-11-07,North,Marketplace,Fitness,Yoga Mat,3,35.83,10,96.74,74.34,22.4
+ORD00636,2025-01-17,North,Online,Office,Office Chair,3,96.72,0,290.16,211.48,78.68
+ORD00637,2025-09-26,South,Marketplace,Office,Notebook Set,3,6.46,10,17.44,14.61,2.83
+ORD00638,2025-01-13,North,Store,Fitness,Dumbbell Set,1,40.79,5,38.75,30.27,8.48
+ORD00639,2025-03-15,East,Online,Electronics,Keyboard,1,62.22,10,56.0,38.44,17.56
+ORD00640,2025-06-09,East,Marketplace,Electronics,Keyboard,3,71.65,0,214.95,160.52,54.43
+ORD00641,2025-12-04,West,Store,Office,Notebook Set,1,12.51,15,10.63,7.21,3.42
+ORD00642,2025-05-22,East,Online,Office,Office Chair,1,175.6,0,175.6,90.32,85.28
+ORD00643,2025-10-05,West,Online,Office,Monitor Stand,1,34.33,10,30.9,19.4,11.5
+ORD00644,2025-02-06,East,Online,Office,Monitor Stand,2,60.15,0,120.3,58.79,61.51
+ORD00645,2025-07-16,South,Marketplace,Electronics,Wireless Mouse,1,25.25,5,23.99,16.61,7.38
+ORD00646,2025-07-02,South,Marketplace,Office,Office Chair,2,195.35,10,351.63,250.07,101.56
+ORD00647,2025-03-09,South,Store,Electronics,Keyboard,2,50.76,10,91.37,70.36,21.01
+ORD00648,2025-04-29,North,Store,Home,Desk Lamp,2,40.83,15,69.41,48.8,20.61
+ORD00649,2025-08-21,North,Store,Fitness,Yoga Mat,1,17.29,5,16.43,12.69,3.74
+ORD00650,2025-11-06,East,Store,Home,Water Bottle,3,12.06,10,32.56,20.9,11.66
+ORD00651,2025-09-30,South,Store,Fitness,Resistance Bands,1,18.04,0,18.04,9.52,8.52
+ORD00652,2025-02-03,North,Marketplace,Office,Notebook Set,2,15.58,10,28.04,19.03,9.01
+ORD00653,2025-12-22,South,Online,Home,Desk Lamp,1,34.88,15,29.65,22.75,6.9
+ORD00654,2025-10-31,East,Marketplace,Fitness,Resistance Bands,3,17.44,0,52.32,40.12,12.2
+ORD00655,2025-02-25,East,Online,Fitness,Resistance Bands,2,16.4,0,32.8,23.78,9.02
+ORD00656,2025-12-05,North,Store,Home,Storage Box,1,17.03,5,16.18,9.17,7.01
+ORD00657,2025-10-19,South,Online,Office,Office Chair,4,181.9,20,582.08,476.45,105.63
+ORD00658,2025-05-31,North,Online,Electronics,Headphones,5,102.58,0,512.9,332.36,180.54
+ORD00659,2025-05-25,South,Store,Electronics,Wireless Mouse,2,25.34,10,45.61,35.15,10.46
+ORD00660,2025-08-11,North,Store,Home,Water Bottle,1,13.47,5,12.8,9.87,2.93
+ORD00661,2025-03-20,South,Marketplace,Office,Monitor Stand,1,25.65,10,23.09,13.42,9.67
+ORD00662,2025-08-12,South,Marketplace,Home,Desk Lamp,3,19.12,15,48.76,42.91,5.85
+ORD00663,2025-04-03,South,Marketplace,Fitness,Dumbbell Set,3,59.69,0,179.07,98.08,80.99
+ORD00664,2025-01-04,North,Online,Fitness,Dumbbell Set,2,46.57,0,93.14,59.97,33.17
+ORD00665,2025-01-20,North,Store,Fitness,Dumbbell Set,2,55.8,20,89.28,56.25,33.03
+ORD00666,2025-09-22,East,Marketplace,Electronics,Keyboard,1,73.95,5,70.25,51.95,18.3
+ORD00667,2025-11-21,South,Marketplace,Office,Monitor Stand,1,22.37,10,20.13,13.88,6.25
+ORD00668,2025-06-19,North,Marketplace,Fitness,Resistance Bands,3,24.33,0,72.99,35.81,37.18
+ORD00669,2025-10-16,North,Marketplace,Office,Notebook Set,2,13.18,5,25.04,17.84,7.2
+ORD00670,2025-11-16,North,Online,Electronics,Headphones,1,71.36,0,71.36,51.03,20.33
+ORD00671,2025-11-12,West,Marketplace,Office,Office Chair,1,200.81,0,200.81,106.91,93.9
+ORD00672,2025-08-17,East,Store,Office,Notebook Set,2,8.4,5,15.96,12.09,3.87
+ORD00673,2025-02-13,South,Online,Home,Water Bottle,1,28.68,5,27.25,22.32,4.93
+ORD00674,2025-12-05,North,Online,Fitness,Dumbbell Set,1,74.63,10,67.17,43.55,23.62
+ORD00675,2025-01-27,West,Store,Home,Storage Box,1,14.78,10,13.3,10.43,2.87
+ORD00676,2025-12-16,South,Store,Fitness,Resistance Bands,2,12.46,0,24.92,14.12,10.8
+ORD00677,2025-12-14,South,Marketplace,Office,Monitor Stand,1,50.73,15,43.12,34.05,9.07
+ORD00678,2025-11-30,South,Marketplace,Office,Office Chair,3,121.49,0,364.47,238.82,125.65
+ORD00679,2025-05-04,East,Online,Home,Water Bottle,2,16.75,0,33.5,21.58,11.92
+ORD00680,2025-01-07,North,Online,Fitness,Yoga Mat,2,33.38,0,66.76,46.57,20.19
+ORD00681,2025-01-18,East,Marketplace,Electronics,Keyboard,4,30.06,10,108.22,87.85,20.37
+ORD00682,2025-03-03,West,Online,Electronics,Keyboard,2,32.14,15,54.64,41.77,12.87
+ORD00683,2025-12-23,North,Store,Home,Storage Box,2,13.01,0,26.02,16.03,9.99
+ORD00684,2025-12-21,North,Online,Office,Office Chair,1,106.87,10,96.18,63.57,32.61
+ORD00685,2025-05-13,West,Marketplace,Office,Notebook Set,2,10.73,15,18.24,14.23,4.01
+ORD00686,2025-09-09,South,Marketplace,Electronics,Wireless Mouse,1,27.19,10,24.47,13.92,10.55
+ORD00687,2025-05-13,South,Online,Electronics,Wireless Mouse,2,19.24,0,38.48,23.62,14.86
+ORD00688,2025-12-01,East,Marketplace,Electronics,Wireless Mouse,1,29.3,10,26.37,22.02,4.35
+ORD00689,2025-12-29,West,Online,Fitness,Resistance Bands,3,15.41,10,41.61,33.08,8.53
+ORD00690,2025-07-16,South,Online,Fitness,Yoga Mat,4,34.85,0,139.4,95.43,43.97
+ORD00691,2025-11-20,North,Marketplace,Electronics,Headphones,5,75.1,0,375.5,232.02,143.48
+ORD00692,2025-04-14,East,Marketplace,Home,Water Bottle,1,10.79,0,10.79,7.43,3.36
+ORD00693,2025-12-19,West,Online,Office,Office Chair,2,96.46,10,173.63,100.7,72.93
+ORD00694,2025-10-31,South,Online,Home,Storage Box,3,14.61,10,39.45,27.61,11.84
+ORD00695,2025-01-19,South,Marketplace,Office,Notebook Set,2,9.39,0,18.78,10.21,8.57
+ORD00696,2025-10-02,East,Store,Home,Water Bottle,4,21.59,0,86.36,45.12,41.24
+ORD00697,2025-11-13,North,Online,Electronics,Wireless Mouse,1,29.92,0,29.92,14.81,15.11
+ORD00698,2025-08-22,West,Online,Home,Water Bottle,3,11.28,0,33.84,22.28,11.56
+ORD00699,2025-04-14,West,Store,Fitness,Resistance Bands,5,21.8,10,98.1,62.92,35.18
+ORD00700,2025-04-20,West,Marketplace,Electronics,Keyboard,1,34.54,0,34.54,24.43,10.11
+ORD00701,2025-07-09,South,Online,Home,Storage Box,2,12.14,0,24.28,17.42,6.86
+ORD00702,2025-01-09,North,Store,Fitness,Yoga Mat,1,15.22,0,15.22,10.28,4.94
+ORD00703,2025-12-22,West,Online,Fitness,Dumbbell Set,1,38.88,0,38.88,23.92,14.96
+ORD00704,2025-11-09,North,Store,Electronics,Keyboard,2,34.9,20,55.84,46.64,9.2
+ORD00705,2025-08-03,North,Marketplace,Electronics,Keyboard,1,37.96,5,36.06,19.31,16.75
+ORD00706,2025-09-17,West,Marketplace,Home,Storage Box,2,21.1,0,42.2,22.71,19.49
+ORD00707,2025-08-31,West,Store,Fitness,Yoga Mat,4,20.59,0,82.36,48.53,33.83
+ORD00708,2025-05-09,West,Online,Office,Monitor Stand,3,56.23,0,168.69,118.44,50.25
+ORD00709,2025-01-15,North,Store,Fitness,Dumbbell Set,4,38.12,10,137.23,100.3,36.93
+ORD00710,2025-04-12,West,Store,Office,Notebook Set,1,15.13,0,15.13,10.61,4.52
+ORD00711,2025-04-23,South,Online,Electronics,Headphones,1,78.88,0,78.88,42.98,35.9
+ORD00712,2025-07-18,North,Online,Office,Notebook Set,1,10.95,0,10.95,6.14,4.81
+ORD00713,2025-01-17,North,Online,Electronics,Headphones,3,45.24,5,128.93,72.12,56.81
+ORD00714,2025-06-01,West,Online,Home,Water Bottle,4,29.06,5,110.43,75.07,35.36
+ORD00715,2025-07-30,West,Online,Fitness,Yoga Mat,3,35.71,0,107.13,74.88,32.25
+ORD00716,2025-06-17,East,Store,Fitness,Dumbbell Set,4,45.57,20,145.82,137.46,8.36
+ORD00717,2025-01-23,East,Store,Electronics,Headphones,2,90.01,0,180.02,107.71,72.31
+ORD00718,2025-09-11,West,Store,Home,Desk Lamp,1,31.75,10,28.57,24.29,4.28
+ORD00719,2025-06-01,South,Marketplace,Home,Water Bottle,1,29.98,10,26.98,15.85,11.13
+ORD00720,2025-10-26,North,Marketplace,Electronics,Headphones,1,69.78,10,62.8,37.37,25.43
+ORD00721,2025-08-26,South,Store,Electronics,Keyboard,4,28.89,0,115.56,56.6,58.96
+ORD00722,2025-12-24,North,Online,Home,Water Bottle,4,11.62,10,41.83,23.07,18.76
+ORD00723,2025-02-26,East,Marketplace,Fitness,Resistance Bands,1,15.91,0,15.91,10.73,5.18
+ORD00724,2025-12-30,West,Marketplace,Home,Desk Lamp,1,44.44,0,44.44,27.71,16.73
+ORD00725,2025-04-26,North,Store,Office,Office Chair,2,206.22,0,412.44,204.71,207.73
+ORD00726,2025-08-20,North,Store,Fitness,Dumbbell Set,1,66.87,10,60.18,45.71,14.47
+ORD00727,2025-11-14,South,Online,Office,Monitor Stand,3,62.54,20,150.1,93.75,56.35
+ORD00728,2025-02-11,West,Store,Fitness,Yoga Mat,4,25.09,0,100.36,56.48,43.88
+ORD00729,2025-03-19,West,Store,Home,Water Bottle,1,29.04,0,29.04,19.88,9.16
+ORD00730,2025-06-27,West,Marketplace,Fitness,Resistance Bands,1,20.54,0,20.54,9.99,10.55
+ORD00731,2025-11-27,South,Store,Office,Office Chair,2,163.13,10,293.63,204.19,89.44
+ORD00732,2025-06-05,East,Online,Home,Storage Box,1,10.92,5,10.37,8.42,1.95
+ORD00733,2025-06-30,West,Online,Office,Office Chair,2,214.09,0,428.18,274.29,153.89
+ORD00734,2025-12-29,North,Store,Home,Desk Lamp,1,22.14,0,22.14,11.47,10.67
+ORD00735,2025-04-05,South,Marketplace,Home,Water Bottle,2,24.14,20,38.62,25.32,13.3
+ORD00736,2025-03-25,South,Store,Office,Notebook Set,1,16.97,5,16.12,8.89,7.23
+ORD00737,2025-03-21,North,Marketplace,Electronics,Keyboard,2,55.04,10,99.07,62.6,36.47
+ORD00738,2025-12-08,South,Online,Home,Water Bottle,4,24.57,0,98.28,50.49,47.79
+ORD00739,2025-03-13,North,Online,Electronics,Headphones,2,36.86,0,73.72,43.29,30.43
+ORD00740,2025-11-08,East,Marketplace,Home,Water Bottle,3,20.53,10,55.43,33.18,22.25
+ORD00741,2025-08-17,East,Marketplace,Electronics,Keyboard,2,46.69,10,84.04,59.15,24.89
+ORD00742,2025-07-04,North,Store,Fitness,Yoga Mat,1,40.06,0,40.06,19.38,20.68
+ORD00743,2025-06-07,South,Store,Fitness,Dumbbell Set,2,36.13,0,72.26,56.2,16.06
+ORD00744,2025-03-25,West,Store,Fitness,Dumbbell Set,1,92.75,5,88.11,46.92,41.19
+ORD00745,2025-09-01,North,Store,Office,Notebook Set,2,17.13,0,34.26,16.51,17.75
+ORD00746,2025-03-31,North,Marketplace,Fitness,Dumbbell Set,4,69.75,0,279.0,203.58,75.42
+ORD00747,2025-09-09,East,Online,Electronics,Headphones,1,97.59,5,92.71,60.41,32.3
+ORD00748,2025-03-20,North,Store,Office,Office Chair,3,214.06,5,610.07,434.21,175.86
+ORD00749,2025-04-02,East,Marketplace,Fitness,Dumbbell Set,1,75.14,10,67.63,47.18,20.45
+ORD00750,2025-07-05,East,Store,Fitness,Dumbbell Set,1,60.52,10,54.47,46.74,7.73
+ORD00751,2025-09-20,West,Store,Electronics,Headphones,1,47.21,0,47.21,35.1,12.11
+ORD00752,2025-03-25,North,Marketplace,Electronics,Headphones,2,62.09,20,99.34,61.42,37.92
+ORD00753,2025-11-24,West,Marketplace,Electronics,Keyboard,2,35.66,10,64.19,47.04,17.15
+ORD00754,2025-06-15,North,Online,Office,Monitor Stand,1,55.99,10,50.39,32.96,17.43
+ORD00755,2025-01-07,West,Online,Home,Water Bottle,3,15.63,0,46.89,35.46,11.43
+ORD00756,2025-04-22,East,Store,Home,Water Bottle,1,14.42,15,12.26,9.58,2.68
+ORD00757,2025-08-24,North,Online,Electronics,Wireless Mouse,4,31.92,5,121.3,73.22,48.08
+ORD00758,2025-08-15,West,Marketplace,Office,Notebook Set,1,14.23,10,12.81,7.78,5.03
+ORD00759,2025-04-27,East,Online,Office,Notebook Set,5,7.73,0,38.65,27.4,11.25
+ORD00760,2025-01-10,East,Store,Fitness,Resistance Bands,1,8.72,10,7.85,5.53,2.32
+ORD00761,2025-03-02,West,Marketplace,Office,Notebook Set,2,5.86,10,10.55,8.38,2.17
+ORD00762,2025-04-13,North,Store,Home,Water Bottle,1,17.03,15,14.48,12.99,1.49
+ORD00763,2025-03-24,West,Marketplace,Home,Water Bottle,1,21.4,5,20.33,10.36,9.97
+ORD00764,2025-04-09,West,Marketplace,Office,Notebook Set,2,16.72,20,26.75,17.04,9.71
+ORD00765,2025-12-29,North,Store,Fitness,Resistance Bands,1,19.87,10,17.88,10.18,7.7
+ORD00766,2025-08-06,East,Marketplace,Home,Water Bottle,1,14.55,20,11.64,7.52,4.12
+ORD00767,2025-03-11,East,Store,Fitness,Resistance Bands,2,19.98,0,39.96,23.11,16.85
+ORD00768,2025-05-26,South,Store,Fitness,Dumbbell Set,2,81.53,15,138.6,89.32,49.28
+ORD00769,2025-08-08,East,Marketplace,Home,Desk Lamp,3,41.84,15,106.69,74.09,32.6
+ORD00770,2025-09-09,South,Marketplace,Electronics,Headphones,2,67.85,0,135.7,70.97,64.73
+ORD00771,2025-10-30,North,Online,Electronics,Keyboard,5,75.89,0,379.45,293.15,86.3
+ORD00772,2025-11-01,North,Marketplace,Fitness,Yoga Mat,1,23.15,5,21.99,16.42,5.57
+ORD00773,2025-07-24,West,Store,Office,Office Chair,4,175.0,20,560.0,443.4,116.6
+ORD00774,2025-02-25,East,Online,Electronics,Headphones,1,71.7,20,57.36,35.06,22.3
+ORD00775,2025-09-13,East,Online,Electronics,Wireless Mouse,2,24.5,0,49.0,32.66,16.34
+ORD00776,2025-12-05,North,Marketplace,Fitness,Resistance Bands,2,11.43,5,21.72,12.77,8.95
+ORD00777,2025-10-07,South,Store,Electronics,Wireless Mouse,4,34.84,0,139.36,85.71,53.65
+ORD00778,2025-08-24,West,Store,Electronics,Wireless Mouse,2,21.01,10,37.82,31.32,6.5
+ORD00779,2025-08-09,South,Store,Home,Storage Box,2,20.17,0,40.34,27.53,12.81
+ORD00780,2025-10-15,North,Store,Home,Water Bottle,1,11.11,5,10.55,6.59,3.96
+ORD00781,2025-06-14,East,Marketplace,Electronics,Wireless Mouse,1,28.04,0,28.04,20.27,7.77
+ORD00782,2025-06-24,West,Online,Fitness,Yoga Mat,5,29.99,0,149.95,74.52,75.43
+ORD00783,2025-05-01,West,Online,Office,Monitor Stand,2,23.82,15,40.49,24.5,15.99
+ORD00784,2025-10-03,North,Online,Office,Notebook Set,3,10.99,5,31.32,24.74,6.58
+ORD00785,2025-12-23,East,Store,Fitness,Dumbbell Set,1,31.56,5,29.98,18.2,11.78
+ORD00786,2025-02-21,North,Store,Home,Storage Box,3,16.44,10,44.39,26.14,18.25
+ORD00787,2025-08-12,West,Store,Home,Storage Box,5,18.8,0,94.0,69.1,24.9
+ORD00788,2025-05-16,East,Marketplace,Electronics,Headphones,1,109.72,0,109.72,77.12,32.6
+ORD00789,2025-10-24,West,Store,Electronics,Keyboard,1,43.53,10,39.18,27.1,12.08
+ORD00790,2025-02-09,South,Store,Office,Monitor Stand,1,56.19,5,53.38,30.34,23.04
+ORD00791,2025-11-16,West,Marketplace,Fitness,Dumbbell Set,1,83.44,0,83.44,57.66,25.78
+ORD00792,2025-09-13,South,Marketplace,Home,Water Bottle,3,29.24,5,83.33,66.77,16.56
+ORD00793,2025-11-17,North,Store,Electronics,Keyboard,2,36.04,0,72.08,50.74,21.34
+ORD00794,2025-07-30,West,Store,Office,Notebook Set,3,13.24,0,39.72,22.49,17.23
+ORD00795,2025-12-18,North,Store,Home,Storage Box,1,12.05,0,12.05,8.67,3.38
+ORD00796,2025-09-06,North,Store,Fitness,Resistance Bands,1,19.0,0,19.0,9.9,9.1
+ORD00797,2025-12-04,East,Store,Home,Water Bottle,5,27.05,5,128.49,65.73,62.76
+ORD00798,2025-11-05,East,Store,Office,Notebook Set,1,16.71,0,16.71,11.32,5.39
+ORD00799,2025-03-13,North,Store,Home,Desk Lamp,2,32.13,0,64.26,43.65,20.61
+ORD00800,2025-02-16,South,Marketplace,Home,Water Bottle,3,12.45,0,37.35,24.48,12.87

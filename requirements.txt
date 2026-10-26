@@ -1,0 +1,7 @@
+streamlit>=1.38,<2.0
+pandas>=2.2,<3.0
+pytest>=8.0,<10.0
+# Optional LLM workflow (requires OPENAI_API_KEY):
+langchain>=0.3,<2.0
+langchain-openai>=0.2,<2.0
+langgraph>=0.2,<2.0
